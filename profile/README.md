@@ -4,10 +4,10 @@ Development TON-based applications and NFT.
 
 #### Social Networks
 
-- Telegram – [@gcgather](https://t.me/gcgather)
-- X – [@gcgather](https://twitter.com/gcgather)
+- Telegram – [@tcgather](https://t.me/tcgather)
+- X – [@tcgather](https://twitter.com/tcgather)
 
 #### Contacts
 
-- Official Website – [gcgather.com](https://gcgather.com?utm_source=github)
-- Email – [contact@gcgather.com](mailto:contact@gcgather.com)
+- Official Website – [tcgather.com](https://tcgather.com?utm_source=github)
+- Email – [contact@tcgather.com](mailto:contact@tcgather.com)
