@@ -1,3 +1,5 @@
+![cover](https://github.com/thecoingather/.github/blob/main/cover.png)
+
 ## The Coin Gather (TCG)
 
 Development TON-based applications and NFT.
