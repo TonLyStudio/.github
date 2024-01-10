@@ -1,20 +1,31 @@
 ![cover](https://github.com/thecoingather/.github/blob/main/cover.png)
 
-## The Coin Gather (TCG)
+## :pencil2: The Coin Gather (TCG)
 
 Development TON-based applications and NFT.
 
-#### Our Projects with TON
+#### :gem: Our Projects with TON
 
 - [Tonote.io](https://tonote.io) (development) – Private notes service with recipient notification. [News channel](https://t.me/tonote_news)
 - [Ton.Host](https://ton.host) (development) – Private virtual servers hosting based on TON. [News channel](https://t.me/tonhost_news)
 
-#### Social Networks
+#### :link: Social Networks
 
 - Telegram – [@tcgather](https://t.me/tcgather)
 - X – [@tcgather](https://twitter.com/tcgather)
 
-#### Contacts
+#### :link: Contacts
 
 - Official Website – [tcgather.com](https://tcgather.com?utm_source=github)
 - Email – [contact@tcgather.com](mailto:contact@tcgather.com)
+
+#### :moneybag: Donation
+
+Web3 is the future, a new technological stage, and we are putting effort and money into developing this ecosystem. 
+Therefore, if it’s not difficult for you, you can thank us with a donation.
+
+- TON: `UQAlFT3o5RYGgU1JesKdi0l2L4ICtwHZAai0-puchxYh-Vvy`
+- Bitcoin: `bc1q852tjw0zkerlftpzr5zdxr9ff4nznlfypwc5j7`
+- Ethereum: `0x820f00D28505de330317A424353a42C8AD3bb7A9`
+- USDT TRC20: `TGboRMSkv9sH3roDNDW5cYccZnQYTnrChG`
+- USDT ERC20: `0x820f00D28505de330317A424353a42C8AD3bb7A9`
