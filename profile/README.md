@@ -13,6 +13,7 @@ Development projects based on TON.
 
 - Telegram – [@tonlyorg](https://t.me/tonlyorg)
 - X – [@tonlyorg](https://twitter.com/tonlyorg)
+- Tonex – [@tonly](https://tonex.app/@tonly?ref=fted)
 
 #### :link: Contacts
 
