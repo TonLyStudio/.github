@@ -11,7 +11,7 @@ Development projects based on TON.
 
 #### :link: Social Networks
 
-- Telegram – [@tonlyorg](https://t.me/tonlyorg)
+- Telegram – [@tonly_en](https://t.me/tonly_en) and [@tonly_ru](https://t.me/tonly_ru)
 - X – [@tonlyorg](https://twitter.com/tonlyorg)
 - Tonex – [@tonly](https://tonex.app/@tonly?ref=fted)
 
