@@ -1,8 +1,8 @@
 ![cover](https://github.com/thecoingather/.github/blob/main/cover.png)
 
-## :pencil2: The Coin Gather (TCG)
+## :pencil2: TonLy Foundation
 
-Development TON-based applications and NFT.
+Development projects based on TON.
 
 #### :gem: Our Projects with TON
 
@@ -11,13 +11,13 @@ Development TON-based applications and NFT.
 
 #### :link: Social Networks
 
-- Telegram – [@tcgather](https://t.me/tcgather)
-- X – [@tcgather](https://twitter.com/tcgather)
+- Telegram – [@tonlyorg](https://t.me/tonlyorg)
+- X – [@tonlyorg](https://twitter.com/tonlyorg)
 
 #### :link: Contacts
 
-- Official Website – [tcgather.com](https://tcgather.com?utm_source=github)
-- Email – [contact@tcgather.com](mailto:contact@tcgather.com)
+- Official Website – [tonly.org](https://tonly.org?utm_source=github)
+- Email – [contact@tonly.org](mailto:contact@tonly.org)
 
 #### :moneybag: Donation
 
