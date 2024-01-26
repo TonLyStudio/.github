@@ -25,7 +25,7 @@ Development projects based on TON.
 Web3 is the future, a new technological stage, and we are putting effort and money into developing this ecosystem. 
 Therefore, if it’s not difficult for you, you can thank us with a donation.
 
-- TON: `UQAlFT3o5RYGgU1JesKdi0l2L4ICtwHZAai0-puchxYh-Vvy`
+- TON: `tonlywallet.ton`
 - Bitcoin: `bc1q852tjw0zkerlftpzr5zdxr9ff4nznlfypwc5j7`
 - Ethereum: `0x820f00D28505de330317A424353a42C8AD3bb7A9`
 - USDT TRC20: `TGboRMSkv9sH3roDNDW5cYccZnQYTnrChG`
