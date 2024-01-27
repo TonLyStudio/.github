@@ -1,4 +1,4 @@
-![cover](https://github.com/thecoingather/.github/blob/main/cover.png)
+![cover](https://github.com/thecoingather/.github/blob/main/cover-studio.png)
 
 ## :pencil2: TonLy Studio
 
