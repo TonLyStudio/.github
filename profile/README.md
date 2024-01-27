@@ -18,7 +18,7 @@ Development decentralized applications based on TON.
 
 - Official Website – [tonly.studio](https://tonly.studio?utm_source=github)
 - Telegram Chat – [@tonly_contact_bot](https://t.me/tonly_contact_bot)
-- Email – [studio@tonly.co](mailto:studio@tonly.co)
+- Email – [team@tonly.co](mailto:team@tonly.co)
 
 #### :moneybag: Donation
 
