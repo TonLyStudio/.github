@@ -1,23 +1,24 @@
-![cover](https://github.com/thecoingather/.github/blob/main/cover-dark.png)
+![cover](https://github.com/thecoingather/.github/blob/main/cover.png)
 
-## :pencil2: TonLy Foundation
+## :pencil2: TonLy Studio
 
-Development projects based on TON.
+Development decentralized applications based on TON.
 
-#### :gem: Our Projects with TON
+#### :gem: Our Projects
 
 - [Tonote.io](https://tonote.io) (development) – Private notes service with recipient notification. 
 
 #### :link: Social Networks
 
-- Telegram – [@tonly_en](https://t.me/tonly_en) and [@tonly_ru](https://t.me/tonly_ru)
-- X – [@tonlyorg](https://twitter.com/tonlyorg)
+- Telegram – [@TonLyStudio](https://t.me/TonLyStudio)
+- Twitter (X) – [@TonLyStudio](https://twitter.com/TonLyStudio)
 - Tonex – [@tonly](https://tonex.app/@tonly?ref=fted)
 
 #### :link: Contacts
 
-- Official Website – [tonly.org](https://tonly.org?utm_source=github)
-- Email – [contact@tonly.org](mailto:contact@tonly.org)
+- Official Website – [tonly.studio](https://tonly.studio?utm_source=github)
+- Telegram Chat – [@tonly_contact_bot](https://t.me/tonly_contact_bot)
+- Email – [studio@tonly.co](mailto:studio@tonly.co)
 
 #### :moneybag: Donation
 
